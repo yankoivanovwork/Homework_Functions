@@ -1,0 +1,11 @@
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\bin\Debug\netcoreapp2.2\RecursiveFunctions_24July.deps.json
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\bin\Debug\netcoreapp2.2\RecursiveFunctions_24July.runtimeconfig.json
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\bin\Debug\netcoreapp2.2\RecursiveFunctions_24July.runtimeconfig.dev.json
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\bin\Debug\netcoreapp2.2\RecursiveFunctions_24July.dll
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\bin\Debug\netcoreapp2.2\RecursiveFunctions_24July.pdb
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\obj\Debug\netcoreapp2.2\RecursiveFunctions_24July.csproj.CoreCompileInputs.cache
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\obj\Debug\netcoreapp2.2\RecursiveFunctions_24July.AssemblyInfoInputs.cache
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\obj\Debug\netcoreapp2.2\RecursiveFunctions_24July.AssemblyInfo.cs
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\obj\Debug\netcoreapp2.2\RecursiveFunctions_24July.dll
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\obj\Debug\netcoreapp2.2\RecursiveFunctions_24July.pdb
+C:\Users\Yaneka\source\repos\Homework_L5\RecursiveFunctions_24July\obj\Debug\netcoreapp2.2\RecursiveFunctions_24July.csprojAssemblyReference.cache

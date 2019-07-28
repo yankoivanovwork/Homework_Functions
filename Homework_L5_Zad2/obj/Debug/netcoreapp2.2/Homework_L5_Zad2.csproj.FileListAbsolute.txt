@@ -1,0 +1,11 @@
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\bin\Debug\netcoreapp2.2\Homework_L5_Zad2.deps.json
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\bin\Debug\netcoreapp2.2\Homework_L5_Zad2.runtimeconfig.json
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\bin\Debug\netcoreapp2.2\Homework_L5_Zad2.runtimeconfig.dev.json
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\bin\Debug\netcoreapp2.2\Homework_L5_Zad2.dll
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\bin\Debug\netcoreapp2.2\Homework_L5_Zad2.pdb
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\obj\Debug\netcoreapp2.2\Homework_L5_Zad2.csprojAssemblyReference.cache
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\obj\Debug\netcoreapp2.2\Homework_L5_Zad2.csproj.CoreCompileInputs.cache
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\obj\Debug\netcoreapp2.2\Homework_L5_Zad2.AssemblyInfoInputs.cache
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\obj\Debug\netcoreapp2.2\Homework_L5_Zad2.AssemblyInfo.cs
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\obj\Debug\netcoreapp2.2\Homework_L5_Zad2.dll
+C:\Users\Yaneka\source\repos\Homework_L5\Homework_L5_Zad2\obj\Debug\netcoreapp2.2\Homework_L5_Zad2.pdb
