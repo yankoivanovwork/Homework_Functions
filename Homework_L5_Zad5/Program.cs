@@ -41,10 +41,7 @@ namespace Homework_L5_Zad5
                     }
                     else
                     {
-                        if (rowPosition != -1)
-                        {
-                            Console.Write(new string(' ', columnPosition));
-                        }
+                        Console.Write(new string(' ', columnPosition));
                         Console.Write(entryLine[1][i]);
                     }
 
