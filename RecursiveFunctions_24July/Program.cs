@@ -6,7 +6,7 @@ namespace RecursiveFunctions_24July
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(FibunacciSequence(7)); //string builder info
+            Console.WriteLine(FibunacciSequence(7));
         }
 
         private static int FibunacciSequence(int sizeN, int nextNumber = 1, int previousNumber = 0)

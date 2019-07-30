@@ -7,30 +7,48 @@ namespace Homework_L5_Zad5
     {
         static void Main(string[] args)
         {
-            //neqsno uslovie!!!!!!!
             string[] entryLine = Console.ReadLine().Split().ToArray();
-            bool containsEqualChars = false;
+            bool equalCharFound = false;
+            int rowPosition = -1;
+            int columnPosition = -1;
 
-            for (int i = 0; i < entryLine[1].Length; i++)
+            for (int i = 0; i < entryLine[0].Length; i++)
             {
-                if (entryLine[1][i] == entryLine[0][0])
+                for (int j = 0; j < entryLine[1].Length; j++)
                 {
-                    containsEqualChars = true;
+                    if (entryLine[0][i] == entryLine[1][j])
+                    {
+                        rowPosition = j;
+                        columnPosition = i;
+                        equalCharFound = true;
+                        break;
+                    }
+
+                    if (equalCharFound)
+                    {
+                        break;
+                    }
                 }
             }
 
-            if (containsEqualChars == true)
+            if (rowPosition > -1 && columnPosition > -1)
             {
                 for (int i = 0; i < entryLine[1].Length; i++)
                 {
-                    if (entryLine[1][i] == entryLine[0][0])
+                    if (rowPosition == i)
                     {
-                        Console.WriteLine(entryLine[0]);
+                        Console.Write(entryLine[0]);
                     }
                     else
                     {
-                        Console.WriteLine(entryLine[1][i]);
+                        if (rowPosition != -1)
+                        {
+                            Console.Write(new string(' ', columnPosition));
+                        }
+                        Console.Write(entryLine[1][i]);
                     }
+
+                    Console.Write(Environment.NewLine);
                 }
             }
             else

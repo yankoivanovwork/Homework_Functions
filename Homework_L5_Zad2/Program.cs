@@ -12,9 +12,9 @@ namespace Homework_L5_Zad2
 
             for (int i = 0; i < 5; i++)
             {
-                resultLines[0] += entryLine[1].ToCharArray()[i];
+                resultLines[0] += entryLine[1][i];
 
-                resultLines[1] += entryLine[0].ToCharArray()[i];
+                resultLines[1] += entryLine[0][i];
             }
 
             for (int i = 5; i < entryLine[0].Length; i++)
